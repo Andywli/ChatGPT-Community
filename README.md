@@ -1,9 +1,9 @@
-# ChatGPT-Community
+# ChatGPT Community
 
 <p align="center">
 <img src="https://github.com/Andywli/AIGC-ChatGPT-Community/blob/main/images/ChatGPT.png?raw=true" alt="AIGC-ChatGPT-Community" width="100">
 </p>
-<h1 align="center">ChatGPT-Community</h1>
+<h1 align="center">ChatGPT Community</h1>
 
 ## Introduction
 

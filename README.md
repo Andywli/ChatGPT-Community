@@ -14,9 +14,9 @@ ChatGPT交流社区的使命是促进全球范围内的知识共享和文化交�
 
 
 ## 行业报告
-- [AIGC发展趋势报告2023-腾讯研究院.pdf](https://github.com/formulahendry/955.WLB)
-- [AIGC白皮书2022-信通院.pdf](https://github.com/formulahendry/955.WLB)
-- [ChatGPT-真格基金分享.pdf](https://github.com/formulahendry/955.WLB)
+- [AIGC发展趋势报告2023-腾讯研究院.pdf](https://github.com/Andywli/ChatGPT-Community/blob/main/docs/AIGC%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E6%8A%A5%E5%91%8A2023-%E8%85%BE%E8%AE%AF%E7%A0%94%E7%A9%B6%E9%99%A2.pdf)
+- [AIGC白皮书2022-信通院.pdf](https://github.com/Andywli/ChatGPT-Community/blob/main/docs/AIGC%E7%99%BD%E7%9A%AE%E4%B9%A62022-%E4%BF%A1%E9%80%9A%E9%99%A2.pdf)
+- [ChatGPT-真格基金分享.pdf](https://github.com/Andywli/ChatGPT-Community/blob/main/docs/ChatGPT-%E7%9C%9F%E6%A0%BC%E5%9F%BA%E9%87%91%E5%88%86%E4%BA%AB.pdf)
 
 
 

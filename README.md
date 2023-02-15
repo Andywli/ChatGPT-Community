@@ -6,6 +6,7 @@
 <h1 align="center">AIGC-ChatGPT-Community</h1>
 
 
+
 ## Introduction
 
 ChatGPT Community is an AI-powered online communication platform where users can communicate with people from all over the world, share their knowledge and experiences, and get answers and advice on various topics.

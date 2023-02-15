@@ -1,10 +1,9 @@
 # AIGC-ChatGPT-Community
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/55732213?v=4" alt="AIGC-ChatGPT-Community" width="100">
+<img src="https://github.com/Andywli/AIGC-ChatGPT-Community/blob/main/images/ChatGPT.png?raw=true" alt="AIGC-ChatGPT-Community" width="100">
 </p>
 <h1 align="center">AIGC-ChatGPT-Community</h1>
-
 
 ## Introduction
 
@@ -25,6 +24,9 @@ ChatGPT交流社区是一个基于人工智能的在线交流平台，用户可�
 ChatGPT交流社区涵盖了各种主题，包括但不限于科学、技术、文化、艺术、商业和生活等。在这里，您可以与来自不同背景和领域的人进行交流，学习新的知识和技能，拓展您的视野。
 
 ChatGPT交流社区的使命是促进全球范围内的知识共享和文化交流。我们致力于提供一个开放、包容和友好的平台，让用户自由地分享和交流他们的观点和经验。我们相信，在ChatGPT社区中，每个人都可以成为一个有价值的贡献者，为这个世界带来更多的智慧和力量。（来自ChatGPT）
+
+
+
 
 
 

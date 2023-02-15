@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/Andywli/AIGC-ChatGPT-Community/blob/main/images/ChatGPT.png?raw=true" alt="AIGC-ChatGPT-Community" width="100"></p>
 
-# ChatGPT Community
+# ChatGPT 交流社区
 
 
 ChatGPT交流社区是一个基于人工智能的在线交流平台，用户可以在这里与全球各地的人进行交流，分享自己的知识和经验，获取各种问题的解答和建议。
